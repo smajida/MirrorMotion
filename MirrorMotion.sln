@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.Core", "MirrorMotion.Core\MirrorMotion.Core.csproj", "{449CB737-7055-49D1-81A6-08977C12758D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.Console", "MirrorMotion.Console\MirrorMotion.Console.csproj", "{C730DD88-3FD9-41B7-BE2F-12083978F316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.Actions", "MirrorMotion.Actions\MirrorMotion.Actions.csproj", "{BFEB7451-9EE2-4BD5-9D3A-D6C640019702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.Service", "MirrorMotion.Service\MirrorMotion.Service.csproj", "{61B6205F-ED89-4C72-A506-4A125C6DD11B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.TrayApp", "MirrorMotion.TrayApp\MirrorMotion.TrayApp.csproj", "{A1788402-C4C0-4C49-9CC2-14E36871C770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMotion.Core.Tests", "MirrorMotion.Core.Tests\MirrorMotion.Core.Tests.csproj", "{AE78DA83-621F-49F8-835C-DDDC9BB5D282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449CB737-7055-49D1-81A6-08977C12758D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449CB737-7055-49D1-81A6-08977C12758D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449CB737-7055-49D1-81A6-08977C12758D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449CB737-7055-49D1-81A6-08977C12758D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C730DD88-3FD9-41B7-BE2F-12083978F316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C730DD88-3FD9-41B7-BE2F-12083978F316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C730DD88-3FD9-41B7-BE2F-12083978F316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C730DD88-3FD9-41B7-BE2F-12083978F316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFEB7451-9EE2-4BD5-9D3A-D6C640019702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEB7451-9EE2-4BD5-9D3A-D6C640019702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEB7451-9EE2-4BD5-9D3A-D6C640019702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEB7451-9EE2-4BD5-9D3A-D6C640019702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B6205F-ED89-4C72-A506-4A125C6DD11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B6205F-ED89-4C72-A506-4A125C6DD11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B6205F-ED89-4C72-A506-4A125C6DD11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B6205F-ED89-4C72-A506-4A125C6DD11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1788402-C4C0-4C49-9CC2-14E36871C770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1788402-C4C0-4C49-9CC2-14E36871C770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1788402-C4C0-4C49-9CC2-14E36871C770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1788402-C4C0-4C49-9CC2-14E36871C770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE78DA83-621F-49F8-835C-DDDC9BB5D282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE78DA83-621F-49F8-835C-DDDC9BB5D282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE78DA83-621F-49F8-835C-DDDC9BB5D282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE78DA83-621F-49F8-835C-DDDC9BB5D282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MirrorMotion.TrayApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultTooltip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MirrorMotion is not running</Value>
+    </Setting>
+    <Setting Name="SensorEnabledTooltip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MirrorMotion is running</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
